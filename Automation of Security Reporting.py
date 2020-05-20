@@ -1,3 +1,5 @@
+#Created by Antonio Raffaele Iannaccone
+
 import openpyxl
 import pyautogui
 from openpyxl import Workbook
